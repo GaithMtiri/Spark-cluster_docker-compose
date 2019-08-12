@@ -1,0 +1,5 @@
+com/technocratsid/service/WordCountService.class
+com/technocratsid/controller/WordCountController.class
+com/technocratsid/SpringSparkWordCountApplication.class
+com/technocratsid/SparkTest.class
+com/technocratsid/config/SparkConfig.class
