@@ -1,3 +1,3 @@
 #to be modified later on
 
-![alt text](docs/Untitled Document.png)
+![alt text](docs/diagram.png)
